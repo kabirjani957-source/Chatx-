@@ -1,0 +1,6 @@
+{
+  "name": "ChatX",
+  "description": "ChatX — Connect. Chat. Enjoy. Secure real-time messaging, encrypted secret chats, status updates, call logs, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
